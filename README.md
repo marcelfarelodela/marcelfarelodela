@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Marcel 👋
 
-<!--
-**marcelfarelodela/marcelfarelodela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a final-year Audiovisual Systems Engineering (Telecommunications) student at UPC (Barcelona), focused on **audio technology** and **software engineering**.  
+I build with **C/C++** and **Python**, and I’m comfortable working in **Linux/Ubuntu** and command-line workflows.  
+My bachelor’s thesis explores **large-scale music genre classification** using the Free Music Archive (FMA 2020) dataset, with an emphasis on reproducible pipelines and clear evaluation.
 
-Here are some ideas to get you started:
+## What I’m interested in
+- Audio & signal processing (DSP), immersive audio, creator tools
+- Backend/tooling, automation, testing & CI
+- Performance, reliability, and clean engineering practices
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+**Languages:** C/C++, Python, SQL  
+**Tools:** Git/GitHub, Linux/Ubuntu, Bash, MATLAB  
+**Topics:** Audio DSP, Signals & Systems, Fourier analysis, databases
+
+## Featured projects
+- 🎧 **Projecte_Final_PD** — C++ university project (systems / signal-processing coursework)
+- 🐍 **APA-T7** — Python coursework project
+- 🔌 **Practica4_2** — ESP32 (WiFi/Bluetooth) project
+
+## Links
+- GitHub: https://github.com/marcelfarelodela
+- Email: marcel.farelo@estudiantat.upc.edu
+- Location: Barcelona (Sant Cugat del Vallès)
